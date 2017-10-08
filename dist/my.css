@@ -1,0 +1,22 @@
+/* Effective stylesheet produced by snapshot save */
+body { background: rgba(0, 0, 0, 0) url("background.jpg") repeat scroll 0% 0%; padding: 0px; margin: 0px; }
+a:link, a:visited { text-decoration: underline; color: rgb(20, 20, 20); }
+a:hover, a:active { color: rgb(12, 93, 86); }
+.bottom a:link, .bottom a:visited { text-decoration: none; color: rgb(20, 20, 20); text-shadow: 1px 1px rgb(216, 216, 216); font-size: 14px; }
+.bottom a:hover, .bottom a:active { text-decoration: underline; color: rgb(80, 55, 6); }
+.br { height: 10px; }
+.br2 { height: 11px; }
+#header { height: 100px; width: 800px; }
+.menu { text-align: right; padding-top: 38px; padding-right: 32px; height: 25px; color: rgb(13, 13, 13); text-shadow: 1px 1px rgb(58, 58, 58); background: rgba(0, 0, 0, 0) url("menu.png") no-repeat scroll 148px 42px; }
+.menu a:link, .menu a:visited { padding: 0px 10px; text-decoration: none; font-weight: bold; color: rgb(144, 144, 144); text-shadow: none; font-size: 11px; font-family: "Trebuchet MS"; text-transform: uppercase; }
+.menu a:hover, .menu a:active { color: rgb(228, 228, 228); }
+.content { width: 800px; height: 1135px; background: rgba(0, 0, 0, 0) url("content.png") repeat scroll 0% 0%; }
+.text { text-align: left; font-size: 14px; color: rgb(20, 20, 20); font-family: "Trebuchet MS"; line-height: 20px; text-shadow: 1px 1px rgb(255, 255, 255); }
+.text h1 { padding: 30px 0px 0px 43px; margin: 0px; font-size: 17px; font-weight: bold; color: rgb(20, 20, 20); font-family: "Trebuchet MS"; text-shadow: 1px 1px rgb(255, 255, 255); text-transform: uppercase; height: 35px; background: rgba(0, 0, 0, 0) url("icon.png") no-repeat scroll left center; }
+.fotter { width: 735px; height: 60px; text-align: center; }
+#copy { width: 435px; color: rgb(94, 94, 94); font-family: "Trebuchet MS"; font-size: 11px; padding-top: 13px; }
+#copy a:link, #copy a:visited { text-decoration: none; color: rgb(94, 94, 94); }
+#copy a:hover, #copy a:active { text-decoration: underline; color: rgb(193, 193, 193); }
+#stats { width: 300px; text-align: right; padding-top: 13px; }
+#stats a img { opacity: 0.2; }
+#stats a:hover img { opacity: 0.9; }
